@@ -6,7 +6,7 @@ def tick args
       stack: 50,
       w: 50,
       h: 50,
-      path: "sprites/stack/KingsRoomByMaxParata.png"
+      path: "sprites/KingsRoomByMaxParata.png"
     }
     args.state.camera_angle ||= 90
 
